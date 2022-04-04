@@ -10,9 +10,6 @@
 			"libs": {
 				"sap.ui.layout": {}
 			}
-		},
-		"resourceRoots": {
-		  "com.mitchbarry.controls": "./control"
 		},		
 		"config": {
 			"sample": {

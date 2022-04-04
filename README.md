@@ -1,4 +1,4 @@
-# UI5_SQLite_Custom_Control_APK
+# SAPUI5 with SQLite and a custom UI5 model inspector/control wrapped in an Android APK
 
 Reference to SAPUI5's List example: https://sapui5.hana.ondemand.com/sdk/#/entity/sap.m.ColumnListItem/sample/sap.m.sample.Table </br>
 </br>

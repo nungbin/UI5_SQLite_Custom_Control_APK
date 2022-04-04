@@ -1,7 +1,9 @@
 # UI5_SQLite_Custom_Control_APK
 
 Reference to SAPUI5's List example: https://sapui5.hana.ondemand.com/sdk/#/entity/sap.m.ColumnListItem/sample/sap.m.sample.Table </br>
-
+</br>
+Custom UI5 Model Inspector: https://github.com/mitch-b/ui5-model-inspector </br>
+</br>
 
 Learn how to implement SQLite storage on your Cordova (PhoneGap) Projects for storing data offline.
 Article: https://codesundar.com/cordova-sqlite-storage/
